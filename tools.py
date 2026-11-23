@@ -8,7 +8,7 @@ from PIL import Image
 
 leis = Path("FontesLegais.txt").read_text(encoding="utf-8")
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "pegar chave no groq"
 
 EXTENSOES = "*.png *.jpg *.jpeg *.bmp *.gif *.webp"
 

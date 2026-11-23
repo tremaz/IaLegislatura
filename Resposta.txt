@@ -1,84 +1,42 @@
-**Resumo:**  
-Via local apresenta várias ausências de informação; não é possível afirmar conformidade. Principais problemas: falta de dados sobre largura da via, calçada, acessibilidade, estacionamento e recuos.
+Resumo  
+A via apresenta algumas adequações, mas possui insuficiências críticas em vegetação nativa, faixa de rolamento e reservatório obstruído. Essas falhas comprometem o meio‑ambiente, a segurança e a drenagem.
 
----
+**Identificação formal – FORA DO ESPERADO**  
+O documento não indica órgão emissor, revisão, escala, folha ou município. Falta informação essencial para a rastreabilidade.
 
-### 1️⃣ Situação legal, largura da via e alinhamento  
-🔍 **precisa de análise complementar** – não há medição da largura nem projeto de alargamento.  
-**Lei nº 10.474/2016** – define a classificação de vias locais e estabelece requisitos de largura mínima, mas permite exceções para vias preexistentes.  
-**Código da Cidade (Art. 32)** – fixa largura mínima de 6 m para via local, salvo justificativa técnica.  
-*Correção:* obter levantamento topográfico e consultar o projeto original da via.
+**Interpretação visual da imagem – DENTRO DO ESPERADO**  
+A página é um checklist em tabela, preto e branco, totalmente legível, sem desenhos ou símbolos.
 
-### 2️⃣ Calçada, largura, continuidade e piso  
-🔍 **precisa de análise complementar** – inexistem dados sobre largura, continuidade ou estado do pavimento.  
-**Código da Cidade (Art. 44)** – determina faixa livre mínima de 1,20 m e faixa de serviço de 0,50 m, com piso regular e sem obstáculos.  
-**ND 10391/2015** – exige regularidade do piso e inclinação transversal ≤ 5 %.  
-*Correção:* medir calçada, reparar irregularidades e retirar veículos estacionados.
+**Tabela de questões e respostas – DENTRO DO ESPERADO**  
+Itens 1A, 1B, 1C, 7A e 8A respondem “SIM”, mostrando que a acessibilidade, a densidade de arborização, a desobstrução de vias, a sinalização e a drenagem estão adequados.
 
-### 3️⃣ Acessibilidade, rampas, travessias e piso tátil  
-🔍 **precisa de análise complementar** – não há informações sobre rampas, rebaixamento de meio‑fio ou piso tátil.  
-**Lei Ordinária 9.755/2011** – garante direito de pessoas com deficiência ao acesso em vias públicas.  
-**Código da Cidade (Art. 57)** – obriga rampas com inclinação ≤ 8,33 % e piso tátil direcional/alerta.  
-*Correção:* projetar e instalar rampas e pisos táteis conforme normas.
+**Leitura do urbanista – análise de conformidade – FORA DO ESPERADO**  
+Conformidades: 1A, 1B, 1C, 7A, 8A (cumpridas).  
+Não‑conformidades críticas:  
+- **4A – Vegetação nativa = NÃO** – falta de cobertura vegetal nativa na faixa de serviço, podendo gerar impactos ambientais.  
+- **5A – Faixa de rolamento = NÃO** – a pista de circulação de veículos está ausente ou inadequada, comprometendo a segurança viária.  
+- **6A – Reservatório desobstruído = NÃO** – parte do reservatório está obstruída, prejudicando a gestão de águas pluviais.  
+- **6C – Reservatório desobstruído = NÃO** – outra parte do reservatório permanece obstruída, igualmente afetando a drenagem.
 
-### 4️⃣ Arborização e faixa de serviço  
-🔍 **precisa de análise complementar** – falta informação sobre posição de árvores, equipamentos e largura da faixa de serviço.  
-**Lei nº 10.474/2016** – disciplina a faixa de serviço (mín. 0,5 m) e a distância mínima de árvores da calçada.  
-**ND 10391/2015** – recomenda solo permeável e proíbe raízes que danifiquem pavimento.  
-*Correção:* mapear arborização, garantir afastamento adequado e retirar obstáculos.
+**Conclusão geral**  
+A via está inadequada devido às não‑conformidades identificadas.  
 
-### 5️⃣ Entradas de veículos e rebaixamento do meio‑fio  
-🔍 **precisa de análise complementar** – não há dados sobre dimensões ou sinalização das entradas.  
-**Código da Cidade (Art. 54)** – fixa largura mínima de abertura de 2,5 m e extensão lateral do rebaixamento de 1 m.  
-**Lei nº 10.361/2015** – regula sinalização de advertência nas áreas de rebaixamento.  
-*Correção:* ajustar dimensões e sinalizar adequadamente as entradas.
+Ações prioritárias (ordem de importância):  
+1. Implantar vegetação nativa na faixa de serviço (item 4A).  
+2. Construir ou adequar a faixa de rolamento para garantir a circulação segura (item 5A).  
+3. Desobstruir totalmente o reservatório, atendendo aos itens 6A e 6C, para melhorar a drenagem das águas pluviais.  
 
-### 6️⃣ Vagas e estacionamento na via e relação com o lote  
-🔍 **precisa de análise complementar** – inexistem informações sobre vagas para PcD, sinalização ou ocupação da calçada.  
-**Código da Cidade (Art. 108)** – exige vagas reservadas para pessoas com deficiência, sinalizadas segundo o Conselho Nacional de Trânsito.  
-**Lei nº 10.361/2015** – proíbe estacionamento que invada a faixa livre da calçada.  
-*Correção:* demarcar vagas PcD, retirar veículos que ocupam a calçada.
-
-### 7️⃣ Recuos e relação com os imóveis vizinhos  
-🔍 **precisa de análise complementar** – não há dados sobre recuos frontais, degraus ou portões.  
-**Lei nº 236/2017** – estabelece recuo frontal mínimo de 5 m para uso residencial.  
-**Plano Diretor de Fortaleza (Lei 62/2009)** – determina que acessos de lote não invadam a via pública.  
-*Correção:* verificar conformidade dos recuos e adequar portões e rampas ao interior do lote.
-
-### 8️⃣ Pavimento, drenagem, iluminação e segurança  
-🔍 **precisa de análise complementar** – não há observação de buracos, poças ou iluminação.  
-**Código da Cidade (Art. 70)** – exige pavimento em bom estado e sem desníveis perigosos.  
-**Art. 71** – determina sistema de drenagem adequado para evitar acúmulo de água.  
-**Art. 73** – fixa níveis mínimos de iluminação pública nas vias.  
-*Correção:* inspeção detalhada, reparos de pavimento e melhoria de iluminação.
-
-### 9️⃣ Resultado da auditoria  
-⚠️ **inadequada** – a maioria das seções carece de informações essenciais; sem dados não é possível confirmar conformidade.
-
----
-
-## Conclusão geral e ações prioritárias  
-
-1. **Levantamento topográfico e documental** da via (largura, alinhamento, projetos).  
-2. **Adequação da calçada** – garantir largura mínima, continuidade e piso regular.  
-3. **Implementação de acessibilidade** – rampas, rebaixamento de meio‑fio e piso tátil.  
-4. **Regularização do estacionamento** – demarcar vagas PcD e remover veículos da faixa livre.  
-5. **Revisão de arborização e faixa de serviço** – afastar árvores e equipamentos que invadam a calçada.  
-6. **Ajuste das entradas de veículos** – dimensões, sinalização e extensão dos rebaixamentos.  
-7. **Verificação dos recuos e portões** dos imóveis lindeiros.  
-8. **Manutenção de pavimento, drenagem e iluminação** para garantir segurança.
-
----
-
-## Fontes consultadas  
-
-- **Lei nº 10.474, de 09 de junho de 2016** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-especifica/LEI_10474_DE_09_DE_JUNHO_DE_2016.pdf  
-- **Lei nº 10.361, de 17 de junho de 2015** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/lei_n_10_361_de_17_de_junho_de_2015.pdf  
-- **ND 10391, de 07 de julho 2015** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/catalogodeservico/lei_ndeg_10391_de_07_de_julho_de_2015.pdf  
-- **Lei Ordinária 9.755, de 2011** – https://leismunicipais.com.br/a/ce/f/fortaleza/lei-ordinaria/2011/975/9755/lei-ordinaria-n-9755-2011-dispoe-sobre-a-efetivacao-do-direito-das-pessoas-com-deficiencia-ou-mobilidade-reduzida-ao-esporte-e-ao-lazer-nas-instalacoes-que-menciona-no-municipio-de-fortaleza-na-forma-que-indica.html?wordkeytxt=pessoa%20com%20defici%EAncia  
-- **Lei Municipal nº 5.234, de 07 de dezembro 1979** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/lei_municipal_no_5234_de_07_de_dezembro_de_1979.pdf  
-- **Código da Cidade (Fortaleza)** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/609-codigo-da-cidade  
-- **Lei nº 236, de 2017 – Parcelamento, uso e ocupação do solo** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/445-parcelamento-uso-e-ocupacao-do-solo-lei-n-236-2017  
-- **Plano Diretor de Fortaleza – Lei nº 62/2009** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/124-plano-diretor-de-fortaleza-lei-n-62-2009  
-- **Lei Complementar 334/2022 – Regulamento Fundiário** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/DOM_Public_Lei_Complementar_N334_2022_REG._FUNDIARIA.pdf  
-- **Lei de Habitação de Interesse Social** – https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/LC_Habitacao_de_interesse_social.pdf  
+Fontes  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-especifica/LEI_10474_DE_09_DE_JUNHO_DE_2016.pdf  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/lei_n_10_361_de_17_de_junho_de_2015.pdf  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/catalogodeservico/lei_ndeg_10391_de_07_de_julho_de_2015.pdf  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/catalogodeservico/lei_ndeg_10391_de_07_de_julho_de_2015.pdf  
+https://leismunicipais.com.br/a/ce/f/fortaleza/lei-ordinaria/2011/975/9755/lei-ordinaria-n-9755-2011-dispoe-sobre-a-efetivacao-do-direito-das-pessoas-com-deficiencia-ou-mobilidade-reduzida-ao-esporte-e-ao-lazer-nas-instalacoes-que-menciona-no-municipio-de-fortaleza-na-forma-que-indica.html?wordkeytxt=pessoa%20com%20defici%EAncia  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/servicos/lei_municipal_no_5234_de_07_dezembro_de_1979.pdf  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/226-legislacao-especifica-analise-de-orientacao-previa-outorga  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/609-codigo-da-cidade  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/445-parcelamento-uso-e-ocupacao-do-solo-lei-n-236-2017  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/124-plano-diretor-de-fortaleza-lei-n-62-2009  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/urbanismo-e-meio-ambiente/infocidade/126-lei-de-uso-e-ocupacao-do-solo  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/DOM_Public_Lei_Complementar_N334_2022_REG._FUNDIARIA.pdf  
+https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/legislacao-municipal/LC_Habitacao_de_interesse_social.pdf

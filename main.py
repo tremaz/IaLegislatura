@@ -6,13 +6,13 @@ from pathlib import Path
 load_dotenv()
 client = Groq(api_key=os.environ["GROQ_API_KEY"])
 
-leis = Path("Leis.txt").read_text(encoding="utf-8")
+leis = Path("FontesLegais.txt").read_text(encoding="utf-8")
 prompt_base = Path("PromptBase.txt").read_text(encoding="utf-8")
-problema = Path("AnaliseDaImagem.txt").read_text(encoding="utf-8")
+DescricaoImagem = Path("AnaliseDeImagem.txt").read_text(encoding="utf-8")
 
 resp1 = client.chat.completions.create(
     model="openai/gpt-oss-120b",
-    messages=[{"role": "user", "content": f"{prompt_base} FONTES: {leis}. O problema que você deve explicar é {problema}"}]
+    messages=[{"role": "user", "content": f"{prompt_base} FONTES: {leis}. O problema que você deve explicar é {DescricaoImagem}, ao final cite os links das fontes"}]
               )
 
 with open("Resposta.txt", "w", encoding="utf-8") as f:

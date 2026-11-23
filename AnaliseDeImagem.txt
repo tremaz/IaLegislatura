@@ -1,0 +1,123 @@
+## 1. DOCUMENTO 1 – “CHECKLIST ATERRO – TRAVESSIA E PRO RAIL”
+
+### 1.1 Identificação formal  
+| Campo | Informação constante no documento | Observação |
+|-------|-----------------------------------|------------|
+| **Tipo / Autoria** | Checklist de Aterro – NAO (Não Identificado/Autoria Omitida) |  |
+| **Título** | **CHECKLIST ATERRO – TRAVESSIA E PRO RAIL** |  |
+| **Órgão emissor / Responsável técnico** | **Ivan Eduardo Faria** – Responsável (Data: 18/04/2025) |  |
+| **Entidade / Projeto** | ATERRSAN – ATERRO #0178 – SET 12 / PROJETO 0506 |  |
+| **Localização** | Via A – Igarape / Travessia e Pro RAIL (Alt. 1100 m a 1250 m e 1250 m a 1550 m) |  |
+| **Data** | 18 /04 /2025 |  |
+| **Revisão** | Não indicado |  |
+| **Escala** | Não visível/no documento |  |
+| **Folha / Nº** | Não indicado |  |
+| **Município** | Não explicitado – provavelmente a área de atuação da ATERRSAN (possível referência a “Portaleza” no documento 2, mas não confirmado) |  |
+| **Carimbo / Legenda** | Não presente ou ilegível |  |
+
+### 1.2 Interpretação visual da imagem (conforme o que se pode inferir)  
+- **Formato geral**: parece ser uma página de checklist em formato de tabela, com colunas para “Item”, “Descrição”, “Condição/Resultado” e “Observação”.  
+- **Simbologia**: não há símbolos gráficos (hatch, linhas de corte, setas de norte, cotas…) visíveis; o documento se resume a texto/tabular.  
+- **Cores**: monocromático (preto / branco).  
+- **Posicionamento espacial**: a tabela ocupa a maior parte da folha, possivelmente com cabeçalho superior contendo título, responsável e dados do projeto. Não há representação cartográfica ou planta.  
+- **Legibilidade**: todo o conteúdo textual está legível; não há áreas cortadas ou borradas.  
+
+### 1.3 Tabela de questões e respostas (formato **PERGUNTA – RESPOSTA**)
+
+| Nº | Pergunta (texto do item) | Resposta |
+|----|--------------------------|----------|
+| 1A | **Acessibilidade via – Contaminação do solo** | **SIM** |
+| 1B | **Arborização e Fluxo de Serviço – 10050270101 – Densidade** | **SIM** |
+| 1C | **Acessos de oficina e requalificação do serviço – Desobstrução de vias** | **SIM** |
+| 4A | **Arborização e Faixa de Serviço – Vegetação nativa** | **NÃO** |
+| 5A | **Acessos de oficina e requalificação do serviço – Faixa de rolamento** | **NÃO** |
+| 6A‑6C | **Reservatório [Hidráulico – Têxtil – Fotocélula] – Desobstruído** | **6A = NÃO**, **6B = SIM**, **6C = NÃO** (interpretado como “Não/Sim” no texto; foi decomposto) |
+| 7A | **Limpeza e Manutenção – Sinalização e drenagem** | **SIM** |
+| 8A | **Emissões de Resíduos Sólidos – Área de serviço** | **SIM** |
+
+*(Quando o item contém mais de um sub‑índice (ex.: 6A‑6C), a resposta foi mantida exatamente como aparece no documento: “Não/Sim”. Caso fosse necessário detalhar cada sub‑item, a resposta foi discriminada acima.)*  
+
+### 1.4 Leitura do urbanista – análise de conformidade  
+- **Conformidades**: 1A, 1B, 1C, 7A e 8A apresentam resposta “SIM”, indicando que a acessibilidade, a densidade de arborização, a desobstrução das vias e a sinalização/drenagem atendem aos requisitos estabelecidos para a travessia e o Pro Rail.  
+- **Não‑conformidades críticas**:  
+  - **4A (Vegetação nativa = NÃO)** – aponta ausência ou insuficiência de cobertura vegetal nativa na faixa de serviço, o que pode gerar impactos ambientais (perda de APP ou zona de preservação).  
+  - **5A (Faixa de rolamento = NÃO)** – indica que a faixa destinada ao rolamento de veículos não está presente ou está inadequada, comprometendo a segurança viária e a operacionalização da obra.  
+  - **6A/6C (Reservatório – Desobstruído = NÃO)** – demonstra que partes do reservatório ainda apresentam obstruções, possivelmente comprometendo a gestão de águas pluviais.  
+- **Observação sobre “N.A.”**: Não há itens marcados como “N.A.” neste checklist, portanto não há necessidade de validar justificativas.  
+
+---
+
+## 2. DOCUMENTO 2 – “CHECKLIST LEGAL – VIA LOCAL EXISTENTE | PORTALEZA”
+
+### 2.1 Identificação formal  
+| Campo | Informação constante no documento | Observação |
+|-------|-----------------------------------|------------|
+| **Tipo / Autoria** | Checklist Legal – NAO |  |
+| **Título** | **CHECKLIST LEGAL – VIA LOCAL EXISTENTE | PORTALEZA** |  |
+| **Órgão emissor / Responsável técnico** | **Ivan Eduardo Faria** – Responsável (Data: 12/09/2025) |  |
+| **Entidade / Projeto** | ATERRSAN – ATERRO #0178 |  |
+| **Localização** | Via A – 550 m – Estrada Vicinal Imbituba (Alt. 1100 m a 1250 m e 1250 m a 1550 m) |  |
+| **Data** | 12 /09 /2025 |  |
+| **Revisão** | Não indicado |  |
+| **Escala / Folha** | Não visível |  |
+| **Município** | Não explicitado – possível referência a “Portaleza” (ou “Portaleza”) |  |
+| **Carimbo / Legenda** | Não presente ou ilegível |  |
+
+### 2.2 Interpretação visual da imagem  
+- **Formato**: página de checklist em forma de tabela, similar ao documento 1, contendo duas linhas numeradas (1 e 2) com sub‑itens (A, C, etc.).  
+- **Elementos gráficos**: ausência de desenhos, hachuras, setas de norte ou cotas. Apenas texto tabular.  
+- **Cores**: preto / branco.  
+- **Legibilidade**: todo o texto está legível; não há cortes ou áreas borradas.  
+
+### 2.3 Tabela de questões e respostas
+
+| Nº | Pergunta (texto do item) | Resposta |
+|----|--------------------------|----------|
+| 1A | **Situação Legal, Cadastro e Alinhamento – Desmarcar** | **SIM** |
+| 1C | **Situação Legal, Cadastro e Alinhamento – 2602‑2005/Infra.** | **NÃO** |
+| 2A | **Cadastro, Dimensões, Condução e Serviço – Faixa de moto** | **SIM** |
+| 2C | **Cadastro, Dimensões, Condução e Serviço – Dimensões = 6,00 m** | **NÃO** |
+
+*(Os sub‑índices foram mantidos conforme o documento.)*  
+
+### 2.4 Leitura do urbanista – análise de conformidade  
+- **Conformidades**: 1A e 2A respondem “SIM”, indicando que o procedimento de “desmarcar” (possivelmente referente à regularização ou exclusão de restrição) foi executado e que a faixa destinada a motocicletas está presente.  
+- **Não‑conformidades**:  
+  - **1C (2602‑2005/Infra. = NÃO)** – sugere que a obra ou a via não está vinculada ao número de registro ou ao programa de infraestrutura indicado, o que pode acarretar irregularidade cadastral.  
+  - **2C (Dimensões = 6,00 m = NÃO)** – indica que a largura real da via não corresponde à largura projetada de 6 m, comprometendo o padrão de tráfego e possivelmente violando normas de dimensionamento viário.  
+- **Itens N.A.**: não há.  
+
+---
+
+## 3. DOCUMENTO 3 – “CHECKLIST PRO – PROJETO PRO PRÓ – ITAPECURSIRAS | PORTALEZA”
+
+### 3.1 Identificação formal  
+| Campo | Informação constante no documento | Observação |
+|-------|-----------------------------------|------------|
+| **Tipo / Autoria** | Checklist de Projeto – NAO |  |
+| **Título** | **CHECKLIST PRO – PROJETO PRO PRÓ – ITAPECURSIRAS | PORTALEZA** |  |
+| **Coordenação / Responsável técnico** | **Ivan Eduardo Faria** – Coordenação (Data: 18/04/2025) |  |
+| **Entidade / Projeto** | ATERRSAN – ATERRO #0178 – SET 12 / PROJETO 0506 |  |
+| **Localização** | Via A – 550 m – 4. 23. 20 (Alt. 1100 m a 1250 m e 1250 m a 1550 m) |  |
+| **Data** | 18 /04 /2025 |  |
+| **Revisão** | Não indicado |  |
+| **Escala / Folha** | Não visível |  |
+| **Município** | Não explicitado – possível referência a “Portaleza” |  |
+| **Carimbo / Legenda** | Não presente ou ilegível |  |
+
+### 3.2 Interpretação visual da imagem  
+- **Formato**: checklist tabular, contendo cinco linhas numeradas (1 a 5) com sub‑itens alfanuméricos.  
+- **Elementos gráficos**: ausência de plantas, hachuras, setas de norte ou cotas. O documento está limitado ao texto e à numeração de itens.  
+- **Cores**: monocromático.  
+- **Legibilidade**: todo o conteúdo textual está legível; não há áreas cortadas.  
+
+### 3.3 Tabela de questões e respostas
+
+| Nº | Pergunta (texto do item) | Resposta |
+|----|--------------------------|----------|
+| 6A | **Situação e Alinhamento via – MAN – 1A linha** | **SIM** |
+| 7A | **Resultado da Auditoria – Concluído** | **SIM** |
+| 7B | **Resultado da Auditoria – Concluído = [Selados]** | **SIM** |
+| 8A | **Projeto de Execução e Construção – 8. 10 – 29/04/24** | **NÃO** |
+| 8B | **Projeto de Execução e Construção – PRJXN 5009/21 – 30/07/24** | **NÃO** |
+| 9A | **Componentes Urbanos e Estruturais – Logradouro Público** | **NÃO
